@@ -27,3 +27,4 @@ run_task(Kalibrieren())
 r_config(1000, 10, 1000)
 #Roboter Arm bewegen
 rechter_arm.run_angle( )
+test
